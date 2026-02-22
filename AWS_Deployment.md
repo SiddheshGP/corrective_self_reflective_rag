@@ -1,6 +1,6 @@
 # AWS Elastic Beanstalk Deployment Guide
 
-## Overview
+## Overview.
 
 This document describes the CI/CD pipeline for the **Corrective Self-Reflective RAG** application.
 Every push to the `deploy/aws-eb` branch automatically builds a Docker image, pushes it to Amazon ECR,
